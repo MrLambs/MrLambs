@@ -14,7 +14,7 @@
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.NET)
-  ![C#](https://img.shields.io/badge/C%23-C%23-purple?style=flat&logo=C%23-%23)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%23)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
