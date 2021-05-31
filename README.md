@@ -1,16 +1,20 @@
 ### Hi there 👋
+### Matt Lambert 
+[![Twitter Badge](https://img.shields.io/badge/-Matt Lambert-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MrLambLambs)](https://twitter.com/MrLambLambs)  [![Linkedin Badge](https://img.shields.io/badge/-Matt_Lambert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mlambert747/)](https://www.linkedin.com/in/mlambert747/) [![Gmail Badge](https://img.shields.io/badge/-mattdxlambert@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mattdxlambert@gmail.com)](mailto:mattdxlambert@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**MrLambs/MrLambs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Full-Stack Development :zap:
+-  **Languages :** JavaScript, C#, .NET, CSS, HTML
+-  **Hobbies :** Gaming 🎮 & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organization :** Redwood Code Academy
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=MrLambs&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+[Matt Lambert](https://github.com/MrLambs)
