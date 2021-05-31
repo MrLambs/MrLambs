@@ -4,11 +4,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap:
+-  **Working On :** Full-Stack Development :zap:
 -  **Languages :** JavaScript, C#, .NET, CSS, HTML
 -  **Hobbies :** Gaming 🎮 & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** Redwood Code Academy
+-  **Quote :** A computer once beat me at chess, but it was no match for me at kickboxing 🥊 
+-  **Company :** [Redwood Code Academy](http://www.redwoodcodeacademy.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
