@@ -7,7 +7,7 @@
 -  **Working On :** Full-Stack Development :zap:
 -  **Hobbies :** Gaming 🎮 & Music :headphones:
 -  **Quote :** A computer once beat me at chess, but it was no match for me at kickboxing 🥊 
--  **Company :** [VincentBenjamin](https://vincentbenjamin.com/)
+-  **Company :** [Infinite Ranges](https://infiniteranges.com/)
 -  **I'm Hiring! Reach Out To Me :** [![Gmail Badge](https://img.shields.io/badge/-mlambert@vincentbenjamin.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlambert@vincentbenjamin.com)](mailto:mlambert@vincentbenjamin.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
