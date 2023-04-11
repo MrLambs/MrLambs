@@ -8,7 +8,7 @@
 -  **Hobbies :** Gaming 🎮 & Music :headphones:
 -  **Quote :** A computer once beat me at chess, but it was no match for me at kickboxing 🥊 
 -  **Company :** [Infinite Ranges](https://www.infiniteranges.com/)
--  **I'm Hiring! Reach Out To Me :** [![Gmail Badge](https://img.shields.io/badge/-mlambert@vincentbenjamin.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlambert@vincentbenjamin.com)](mailto:mlambert@vincentbenjamin.com)
+-  **I'm Hiring! Reach Out To Me :** [![Gmail Badge](https://img.shields.io/badge/-mlambert@infiniteranges.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlambert@infiniteranges.com)](mailto:mlambert@infiniteranges.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
